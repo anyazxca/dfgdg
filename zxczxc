@@ -1051,16 +1051,16 @@ local ca = {
         Primary = 'Staff',
         Skills = {{
             Skill = 'MageOfLight',
-            Cooldown = 0.28
+            Cooldown = 0.58
         }, {
             Skill = 'MageOfLightBlast',
-            Cooldown = 0.33
+            Cooldown = 0.53
         }, {
             Skill = 'MageOfLightCharged',
             Cooldown = 0.33
         }, {
             Skill = 'MageOfLightBlastCharged',
-            Cooldown = 0.33
+            Cooldown = 0.53
         }, {
             Skill = b2:WaitForChild('MageOfLight'):WaitForChild('HealCircle'),
             Cooldown = 14.2,
